@@ -49,6 +49,7 @@ lftp
 libfido2
 libusb-compat
 linux
+linux-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -119,3 +120,4 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+archzfs-dkms
